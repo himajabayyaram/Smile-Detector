@@ -17,5 +17,5 @@ When a smile is detected, a signal is sent to an Arduino Uno via serial communic
 ## Repository Files
 **Source-Code-File**
 - Contains the complete implementation of the project.
-        **Demenstration Video File**
+ **Demenstration Video File**
 - Shows the working of the project through a real time demo.
